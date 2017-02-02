@@ -1,0 +1,131 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>background.png</file>
+        <file>suit/1.png</file>
+        <file>suit/2.png</file>
+        <file>suit/3.png</file>
+        <file>suit/4.png</file>
+        <file>black/1.png</file>
+        <file>black/2.png</file>
+        <file>black/3.png</file>
+        <file>black/4.png</file>
+        <file>black/5.png</file>
+        <file>black/6.png</file>
+        <file>black/7.png</file>
+        <file>black/8.png</file>
+        <file>black/9.png</file>
+        <file>black/10.png</file>
+        <file>black/11.png</file>
+        <file>black/12.png</file>
+        <file>black/13.png</file>
+        <file>red/1.png</file>
+        <file>red/2.png</file>
+        <file>red/3.png</file>
+        <file>red/4.png</file>
+        <file>red/5.png</file>
+        <file>red/6.png</file>
+        <file>red/7.png</file>
+        <file>red/8.png</file>
+        <file>red/9.png</file>
+        <file>red/10.png</file>
+        <file>red/11.png</file>
+        <file>red/12.png</file>
+        <file>red/13.png</file>
+        <file>card_image/1.png</file>
+        <file>card_image/2.png</file>
+        <file>card_image/3.png</file>
+        <file>card_image/4.png</file>
+        <file>card_image/5.png</file>
+        <file>card_image/6.png</file>
+        <file>card_image/7.png</file>
+        <file>card_image/8.png</file>
+        <file>card_image/9.png</file>
+        <file>card_image/10.png</file>
+        <file>card_image/11.png</file>
+        <file>card_image/12.png</file>
+        <file>card_image/13.png</file>
+        <file>card_image/14.png</file>
+        <file>card_image/15.png</file>
+        <file>card_image/16.png</file>
+        <file>card_image/17.png</file>
+        <file>card_image/18.png</file>
+        <file>card_image/19.png</file>
+        <file>card_image/20.png</file>
+        <file>card_image/21.png</file>
+        <file>card_image/22.png</file>
+        <file>card_image/23.png</file>
+        <file>card_image/24.png</file>
+        <file>card_image/25.png</file>
+        <file>card_image/26.png</file>
+        <file>card_image/27.png</file>
+        <file>card_image/28.png</file>
+        <file>card_image/29.png</file>
+        <file>card_image/30.png</file>
+        <file>other image/bg.png</file>
+        <file>LOGO.png</file>
+        <file>dashboardSelected.png</file>
+        <file>button.png</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file>other image/1.png</file>
+        <file>other image/2.png</file>
+        <file>other image/3.png</file>
+        <file>other image/4.png</file>
+        <file>other image/5.png</file>
+        <file>other image/card-container.png</file>
+        <file>other image/dashboard-avatar.png</file>
+        <file>other image/dashboard-equip.png</file>
+        <file>other image/photo-back.png</file>
+        <file>other image/unknown.png</file>
+        <file>Screen Shot 2017-01-13 at 11.17.56.png</file>
+        <file>leilei.png</file>
+        <file>roles/lord.png</file>
+        <file>roles/loyalist.png</file>
+        <file>roles/rebel.png</file>
+        <file>roles/renegade.png</file>
+    </qresource>
+    <qresource prefix="/equip">
+        <file>other image/equips/needed/4.png</file>
+        <file>other image/equips/needed/5.png</file>
+        <file>other image/equips/needed/6.png</file>
+        <file>other image/equips/needed/7.png</file>
+        <file>other image/equips/needed/8.png</file>
+        <file>other image/equips/needed/9.png</file>
+        <file>other image/equips/needed/10.png</file>
+        <file>other image/equips/needed/11.png</file>
+        <file>other image/equips/needed/12.png</file>
+        <file>other image/equips/needed/24.png</file>
+        <file>other image/equips/needed/25.png</file>
+        <file>other image/equips/needed/26.png</file>
+        <file>other image/equips/needed/27.png</file>
+        <file>other image/equips/needed/28.png</file>
+        <file>other image/equips/needed/29.png</file>
+        <file>other image/equips/needed/30.png</file>
+    </qresource>
+    <qresource prefix="/general">
+        <file>full/needed/1.png</file>
+        <file>full/needed/2.png</file>
+        <file>full/needed/3.png</file>
+        <file>full/needed/4.png</file>
+        <file>full/needed/5.png</file>
+        <file>full/needed/7.png</file>
+        <file>full/needed/8.png</file>
+        <file>full/needed/9.png</file>
+        <file>full/needed/10.png</file>
+        <file>full/needed/11.png</file>
+        <file>full/needed/12.png</file>
+        <file>full/needed/13.png</file>
+        <file>full/needed/14.png</file>
+        <file>full/needed/15.png</file>
+        <file>full/needed/16.png</file>
+        <file>full/needed/17.png</file>
+        <file>full/needed/18.png</file>
+        <file>full/needed/19.png</file>
+        <file>full/needed/20.png</file>
+        <file>full/needed/21.png</file>
+        <file>full/needed/22.png</file>
+        <file>full/needed/23.png</file>
+        <file>full/needed/24.png</file>
+        <file>full/needed/25.png</file>
+    </qresource>
+</RCC>
